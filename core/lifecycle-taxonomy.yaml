@@ -1,0 +1,17 @@
+version: "0.1.0"
+taxonomy: lifecycle
+stages:
+  - discovery_research
+  - nonclinical
+  - clinical
+  - registration_marketing_authorization
+  - technology_transfer
+  - manufacturing
+  - packaging_labeling
+  - quality_control_testing
+  - batch_release
+  - storage_distribution
+  - post_approval_change
+  - pharmacovigilance
+  - complaint_recall
+  - discontinuation

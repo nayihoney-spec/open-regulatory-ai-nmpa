@@ -1,0 +1,22 @@
+version: "0.1.0"
+taxonomy: product_type
+principle: "Apply general requirements plus product-specific requirements; specific rules may supplement or supersede general rules when legally applicable."
+terms:
+  general_medicinal_product:
+    labels: ["medicinal product", "drug", "pharmaceutical", "药品", "药品生产"]
+  chemical:
+    labels: ["chemical drug", "small molecule", "drug substance", "drug product", "化学药", "原料药", "制剂"]
+  traditional_chinese_medicine:
+    labels: ["traditional Chinese medicine", "TCM", "中药", "中药材", "中药饮片", "中成药"]
+  biologic:
+    labels: ["biological product", "biologic", "biological medicinal product", "生物制品", "生物药"]
+  blood_plasma_derived:
+    labels: ["blood product", "plasma-derived product", "血液制品", "血浆制品", "免疫球蛋白", "凝血因子"]
+  vaccine:
+    labels: ["vaccine", "疫苗", "预防用生物制品"]
+  cell_gene_therapy:
+    labels: ["cell therapy", "gene therapy", "ATMP", "CGT", "细胞治疗", "基因治疗"]
+attributes:
+  sterile: ["sterile", "aseptic", "无菌", "无菌生产"]
+  api: ["API", "active substance", "drug substance", "原料药"]
+  investigational: ["investigational medicinal product", "investigational drug", "IMP", "IND", "试验用药品"]

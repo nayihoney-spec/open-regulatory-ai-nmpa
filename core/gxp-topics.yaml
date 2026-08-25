@@ -1,0 +1,21 @@
+version: "0.1.0"
+taxonomy: gxp_topics
+topics:
+  quality_system: ["PQS", "QMS", "质量体系", "质量管理"]
+  deviation: ["deviation", "偏差", "quality event", "质量事件"]
+  capa: ["CAPA", "corrective action", "preventive action", "纠正措施", "预防措施"]
+  change_control: ["change control", "变更控制", "post-approval change", "上市后变更"]
+  risk_management: ["quality risk management", "QRM", "风险管理", "风险评估"]
+  data_integrity: ["data integrity", "ALCOA+", "数据完整性", "audit trail", "审计追踪"]
+  computerized_system: ["computerized system", "CSV", "computer system validation", "计算机化系统"]
+  validation_qualification: ["validation", "qualification", "验证", "确认"]
+  cleaning_validation: ["cleaning validation", "清洁验证"]
+  process_validation: ["process validation", "PPQ", "continued process verification", "工艺验证"]
+  aseptic_sterility: ["aseptic", "sterility assurance", "CCS", "无菌", "污染控制"]
+  laboratory: ["laboratory control", "OOS", "OOT", "QC", "实验室", "检验"]
+  materials_suppliers: ["supplier", "vendor", "material", "供应商", "物料"]
+  documentation_records: ["documentation", "records", "SOP", "文件", "记录"]
+  training: ["training", "qualification", "培训"]
+  inspection_audit: ["inspection", "audit", "self-inspection", "检查", "审计", "自检"]
+  complaint_recall: ["complaint", "recall", "投诉", "召回"]
+  pharmacovigilance: ["pharmacovigilance", "adverse reaction", "药物警戒", "不良反应"]
