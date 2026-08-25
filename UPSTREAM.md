@@ -1,7 +1,11 @@
 # Upstream / umbrella repository
 
-Intended umbrella repository name:
+This regional module is part of the public **Open Regulatory AI Framework**:
 
-`open-regulatory-ai-framework`
+https://github.com/nayihoney-spec/open-regulatory-ai-framework
 
-This regional module is designed to remain usable independently while periodically synchronizing shared `core/` taxonomies and prompt safety rules from the umbrella project.
+It remains usable independently while sharing the common `core/` taxonomies, prompt safety rules, governance model, and contribution conventions with the umbrella project.
+
+Regional repository:
+
+https://github.com/nayihoney-spec/open-regulatory-ai-nmpa
