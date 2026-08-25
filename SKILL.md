@@ -1,6 +1,6 @@
 ---
 name: open-regulatory-ai-nmpa
-description: "Use for pharmaceutical regulatory research focused on mainland China and the NMPA, CDE, or CFDI. Trigger for Chinese drug laws and regulations, China GMP, NMPA announcements, CDE technical guidelines, CFDI inspection requirements, marketing authorization holder obligations, product registration, manufacturing, data integrity, validation, inspection readiness, regulatory applicability, change impact, or review of Chinese GxP documents. Do not use for Hong Kong, Macao, or Taiwan requirements unless the user explicitly requests comparison."
+description: "Use for pharmaceutical regulatory research focused on mainland China and the NMPA, CDE, or CFDI. Trigger for Chinese drug laws and regulations, China GMP, NMPA announcements, CDE technical guidelines, CFDI inspection requirements, marketing authorization holder obligations, product registration, manufacturing, data integrity, validation, inspection readiness, regulatory applicability, change impact, or review of Chinese GxP documents. Do not use for Hong Kong, Macao, or Taiwan requirements unless the user explicitly requests comparison. For questions spanning more than one jurisdiction, use open-regulatory-ai-framework instead."
 ---
 
 # Open Regulatory AI — China NMPA
