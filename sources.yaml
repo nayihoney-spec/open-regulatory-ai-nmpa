@@ -1,0 +1,22 @@
+version: "0.1.0"
+jurisdiction: CN
+sources:
+  - name: National Medical Products Administration
+    authority: NMPA
+    url: https://www.nmpa.gov.cn/
+    role: primary_regulator
+  - name: NMPA Laws and Regulations (English portal)
+    authority: NMPA
+    url: https://english.nmpa.gov.cn/lawsandregulations.html
+    role: laws_regulations_navigation
+  - name: Center for Drug Evaluation
+    authority: CDE
+    url: https://www.cde.org.cn/
+    role: drug_review_and_technical_guidance
+  - name: Center for Food and Drug Inspection
+    authority: CFDI
+    url: https://www.cfdi.org.cn/
+    role: inspection_and_verification
+status_rules:
+  - "Confirm whether a document is current, amended, repealed, superseded, draft, or consultation."
+  - "Do not treat an announcement, notice, technical guideline, Q&A, and formal regulation as equivalent legal instruments."
