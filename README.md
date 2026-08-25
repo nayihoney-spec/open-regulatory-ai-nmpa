@@ -37,3 +37,12 @@ python tools/repo_self_check.py .
 
 Knowledge content: CC BY 4.0.  
 Tools: Apache-2.0.
+
+
+## Use as a ChatGPT/Codex skill
+
+This repository is Skill-enabled. `SKILL.md` defines jurisdiction routing, required reference loading, official-source research, evidence handling, and safety constraints. `agents/openai.yaml` enables both explicit and implicit invocation.
+
+Use `$open-regulatory-ai-nmpa` for mainland China pharmaceutical regulatory questions involving NMPA, CDE, CFDI, China GMP, registration, manufacturing, inspection, data integrity, or GxP document review.
+
+The Skill does not replace qualified regulatory, legal, quality, validation, submission, or patient-safety review.

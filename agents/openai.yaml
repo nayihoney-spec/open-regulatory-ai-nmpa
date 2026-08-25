@@ -1,0 +1,6 @@
+interface:
+  display_name: "Open Regulatory AI — China NMPA"
+  short_description: "China NMPA pharmaceutical regulatory research"
+  default_prompt: "Use $open-regulatory-ai-nmpa to research the applicable current NMPA requirements using official Chinese sources."
+policy:
+  allow_implicit_invocation: true
